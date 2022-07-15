@@ -1,0 +1,51 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap:25px
+}
+
+.myId {
+	border-radius: 5px;  
+	background: #c9d6ff; 
+	padding: 2rem;
+	display: flex;
+	justify-content: center;
+	align-Items: center;
+	gap:25px
+}
+
+.call-button {
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-Items: center;
+	gap:25px
+}
+
+.video-container {
+	display: flex;
+	justify-content: center;
+	align-Items: center;
+}
+
+.caller {
+	text-align: center;
+	color: #fff;
+}
+
+body {
+	background: #181c54;
+}
+
+.clipboard_div{
+	display:flex;
+	flex-direction: column;
+	align-items: center;
+	gap:25px
+}
+
+.MuiButton-text{
+	padding: 0 !important;
+}
